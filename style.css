@@ -1,0 +1,31 @@
+h1 {
+    width: 100%;
+        color: black;
+        padding: 10px;
+        margin: 5px;
+       text-align: center;
+    }
+    
+    div {
+        display: flex;
+        flex-direction: row;
+        padding: 10px;
+        gap: 20px;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+        border: solid black 2px;
+        background-color: burlywood;
+    }
+    
+    p{
+        text-align: end;
+    }
+    
+    
+    
+    div img {
+        height: 400px;
+        width: 300px;
+    }
+    
