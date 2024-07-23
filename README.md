@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/my-image-gallery.git
+git clone https://shan-2702.github.io/My.Image.Gallery.website/
 
 Thank you for visiting my image gallery website!!
 
